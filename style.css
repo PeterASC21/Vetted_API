@@ -1,0 +1,33 @@
+#welcome
+{
+    background: rgb(36, 98, 212);
+    display: flex;
+    justify-content: center;
+    height: 195px;
+}
+
+#button
+{
+    background: yellow;
+    display: flex;
+    justify-content: center;
+    width: 50;
+    height: 50;
+}
+
+#question
+{ 
+    background: lightblue; 
+    display: flex; 
+    justify-content: center; 
+    height: 200px; 
+
+}
+
+#answer
+{
+    display: flex;
+    flex-direction: column; 
+    align-items: center;  
+
+}
